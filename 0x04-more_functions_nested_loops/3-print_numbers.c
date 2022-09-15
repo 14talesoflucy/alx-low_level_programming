@@ -2,8 +2,9 @@
 
 /**
  * print_numbers - Entry point: function that prints numbers, from 0 to 9
- * Return: 0-9 followed by newline
+ * Return: void
  */
+
 void print_numbers(void)
 {
 	int i;
@@ -13,4 +14,4 @@ void print_numbers(void)
 	_putchar(i + '0');
 	}
 	_putchar('\n');
-{
+}
