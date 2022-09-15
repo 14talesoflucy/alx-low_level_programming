@@ -1,11 +1,11 @@
 #include "main.h"
 
 /**
- * Print_most_numbers - Entry Point: Print number 0-9,except 2, 4
+ *print_most_numbers - Entry Point: Print number 0-9,except 2, 4
  * Return: void
  */
 
-void print_most_numbers(void);
+void print_most_numbers(void)
 {
 	int c;
 
